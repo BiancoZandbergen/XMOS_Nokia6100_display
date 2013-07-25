@@ -32,6 +32,7 @@ Large part of the driver is based on the driver written by James P Lynch.
 **To Do**  
 * Add support for Epson S1D15G10 controller.
 * Create a module compatible with the XMOS development tools.
+* Used timed port operations instead of timers for delays in SPI routine.
 
 **bmpdump**  
 bmpdump is a utility written by me to convert a 24 bit uncompressed
