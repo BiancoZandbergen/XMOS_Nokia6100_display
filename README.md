@@ -14,7 +14,7 @@ likely have a brown flexible PCB and Epson a green flexible PCB. Currently only
 the NXP controller is explicitly supported
 
 **Where to get this display?**  
-Sparkfun (also sells breakout boards)
+Sparkfun (also sells breakout boards)  
 Ebay (usually better pricing)
 
 **Driver functionality**  
@@ -39,3 +39,7 @@ bmpdump is a utility written by me to convert a 24 bit uncompressed
 BMP image to other formats. It can be used for this driver to convert an image
 into a bitmap C array (12bpp) for the image drawing function.
 See https://github.com/BiancoZandbergen/bmpdump
+
+<p align="center">
+  <img src="http://biancozandbergen.github.io/images/xmos_nokia6100_display_1.jpg"/>
+</p>
